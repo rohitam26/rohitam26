@@ -13,7 +13,7 @@
 
 ### ✦ A Little About Me
 
-I’m **Rohita**, currently studying Computer Science and Engineering (with a focus on Artificial Intelligence and Machine Learning) at **Rajalakshmi Engineering College**.
+I’m **Rohita**, currently studying Artificial Intelligence and Machine Learning at **Rajalakshmi Engineering College**.
 
 While my coursework covers algorithms, data, and models, I don’t define myself by an off-the-shelf job title. I haven't locked into an exact technical specialization yet—and I think that’s the best place to be. Mostly, I enjoy taking rough concepts, experimenting with them, and seeing what happens when technical logic meets thoughtful, clean design.
 
