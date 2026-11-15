@@ -75,14 +75,14 @@ My focus centers on the intersection of **Artificial Intelligence**, **statistic
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
-| [**YatraSaathi**](https://github.com/rohitam26/YatraSaathi) | A Flutter based journey companion with multi stop GPS tracking, arrival alarms and family safety check ins. | Dart |
-| [**Low-Code-Application-Development-using-Zoho-Creator**](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Student Academic Task Planner - Academic coursework tracking and progress monitoring. | — |
-| [**Deep-Learning-Laboratory**](https://github.com/rohitam26/Deep-Learning-Laboratory) | Deep learning laboratory experiments, neural network architectures, and evaluations. | Python |
-| [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Implementations of core machine learning algorithms and evaluation metrics. | Python |
-| [**Data-Analytics-and-Visualization-Laboratory**](https://github.com/rohitam26/Data-Analytics-and-Visualization-Laboratory) | Exploratory data analysis, statistical tests, and visualization with Pandas and Seaborn. | Python |
-| [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | _No description provided_ | Python |
-| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Comprehensive laboratory exercises covering core Python concepts and standard libraries. | Python |
-| [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | Object-oriented programming implementations, inheritance \| polymorphism, and file handling. | Java |
+| [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | _No description provided_ | HTML |
+| [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | _No description provided_ | — |
+| [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | _No description provided_ | — |
+| [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | _No description provided_ | — |
+| [**Computer-Networks-Laboratory**](https://github.com/rohitam26/Computer-Networks-Laboratory) | _No description provided_ | — |
+| [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | A comprehensive repository for exploring the foundational concepts of Artificial Intelligence. | Python |
+| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | _No description provided_ | — |
+| [**Database-Management-Systems-Laboratory**](https://github.com/rohitam26/Database-Management-Systems-Laboratory) | _No description provided_ | — |
 <!-- PROJECTS:END -->
 
 > 🔄 *The table above is automatically updated daily via [GitHub Actions](.github/workflows/update-projects.yml) and [`update_projects.py`](scripts/update_projects.py).*
