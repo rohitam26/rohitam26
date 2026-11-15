@@ -3,7 +3,6 @@
 # Rohita Muthu
 
 **Pre-Final Year AIML Undergraduate**  
-Rajalakshmi Engineering College, Chennai
 
 Pre-Final Year AIML Undergraduate interested in Machine Learning, Artificial Intelligence and building practical software projects.
 
@@ -16,7 +15,7 @@ Pre-Final Year AIML Undergraduate interested in Machine Learning, Artificial Int
 
 ## 1. About
 
-I am a pre-final year undergraduate specializing in Artificial Intelligence and Machine Learning at Rajalakshmi Engineering College. I enjoy learning new technologies, working on projects and exploring practical applications of AI and software development.
+I am a pre-final year undergraduate specializing in Artificial Intelligence and Machine Learning. I enjoy learning new technologies, working on projects and exploring practical applications of AI and software development.
 
 ---
 
@@ -45,6 +44,16 @@ I am a pre-final year undergraduate specializing in Artificial Intelligence and 
 
 ## 4. Featured Projects
 
+### YatraSaathi
+A Flutter application for journey tracking and destination arrival alerts.
+
+- **Key Highlights**:
+  - Journey tracking with multi-stop GPS location monitoring
+  - Destination arrival alerts and proximity notifications
+  - Safety check-in alerts designed for commuters
+- **Technologies**: Flutter, Dart, Android Location Services, Local Notifications
+- **Repository**: [rohitam26/YatraSaathi](https://github.com/rohitam26/YatraSaathi)
+
 ### WorkloadLens
 An automation workload estimation and preview project developed for the UC-05 Cloud and SaaS Engineering Challenge.
 
@@ -56,16 +65,6 @@ An automation workload estimation and preview project developed for the UC-05 Cl
   - Workload run history
 - **Technologies**: Python, FastAPI, React, TypeScript, SQLAlchemy, SQLite, Docker, Terraform, Pytest
 - **Repository**: `UC-05_automation-workload`
-
-### YatraSaathi
-A Flutter application for journey tracking and destination arrival alerts.
-
-- **Key Highlights**:
-  - Journey tracking with multi-stop GPS location monitoring
-  - Destination arrival alerts and proximity notifications
-  - Safety check-in alerts designed for commuters
-- **Technologies**: Flutter, Dart, Android Location Services, Local Notifications
-- **Repository**: [rohitam26/YatraSaathi](https://github.com/rohitam26/YatraSaathi)
 
 ---
 
