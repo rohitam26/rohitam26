@@ -73,14 +73,14 @@ An automation workload estimation and preview project developed for the UC-05 Cl
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
-| [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | _No description provided_ | HTML |
-| [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | _No description provided_ | — |
-| [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | _No description provided_ | — |
-| [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | _No description provided_ | — |
-| [**Computer-Networks-Laboratory**](https://github.com/rohitam26/Computer-Networks-Laboratory) | _No description provided_ | — |
-| [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | A comprehensive repository for exploring the foundational concepts of Artificial Intelligence. | Python |
-| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | _No description provided_ | — |
-| [**Database-Management-Systems-Laboratory**](https://github.com/rohitam26/Database-Management-Systems-Laboratory) | _No description provided_ | — |
+| [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive web application experiments. | HTML, Java |
+| [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | System programming, process scheduling, inter-process communication, and memory virtualization laboratory implementations in C. | C, Shell |
+| [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | Core object-oriented programming principles, modern Java collections, exception handling, and JDBC database applications. | Java |
+| [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Supervised and unsupervised learning algorithms, regression models, ensemble classifiers, and dimensionality reduction in Python. | Python |
+| [**Computer-Networks-Laboratory**](https://github.com/rohitam26/Computer-Networks-Laboratory) | Socket programming, packet sniffing, network routing protocols, and diagnostic networking experiments across layers. | Python, C |
+| [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search, constraint satisfaction, game trees, fuzzy logic, and Prolog. | Python, Prolog |
+| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Core syntax, data structures, recursion, file operations, and vectorized numerical computing using Python. | Python |
+| [**Database-Management-Systems-Laboratory**](https://github.com/rohitam26/Database-Management-Systems-Laboratory) | Relational schema design, complex SQL queries, PL/SQL procedures, triggers, and MongoDB NoSQL database operations. | SQL, PL/SQL |
 <!-- PROJECTS:END -->
 
 ---
