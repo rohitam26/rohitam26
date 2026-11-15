@@ -1,76 +1,75 @@
 <div align="center">
 
-# Rohita M
+# Rohita Muthu
 
-**AI & ML Undergraduate · Building Intelligent Systems · Exploring Applied AI & Software Engineering**
+**Pre-Final Year AIML Undergraduate**  
+Rajalakshmi Engineering College, Chennai
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-rohitam26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitam26)
-[![Focus](https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Systems-5856D6?style=flat-square)](https://github.com/rohitam26)
-[![Education](https://img.shields.io/badge/Degree-B.Tech%20CSE%20(AI%20%26%20ML)-0A84FF?style=flat-square)](https://github.com/rohitam26)
+Pre-Final Year AIML Undergraduate interested in Machine Learning, Artificial Intelligence and building practical software projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohita_Muthu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohita-muthu-a67b0332a)
+[![GitHub](https://img.shields.io/badge/GitHub-rohitam26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitam26)
 
 </div>
 
 ---
 
-### 👤 About Me
+## 1. About
 
-I am an undergraduate student pursuing **B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning)** at **Rajalakshmi Engineering College (Autonomous)**, Chennai.
-
-My focus centers on the intersection of **Artificial Intelligence**, **statistical learning**, and **practical software engineering**. I am interested in designing dependable intelligent systems, exploring data-driven pipelines, and understanding how applied machine learning models transition from research experiments into structured, production-ready software solutions.
-
-- 🎓 **Undergraduate Major**: B.Tech CSE (AI & ML)
-- 🔬 **Core Areas**: Machine Learning, Applied AI, Data Science & Analytics
-- 💻 **Engineering Interests**: Backend development, algorithmic efficiency, clean software architecture
-- 🛠️ **Current Focus**: Reliable AI systems, model evaluation under distribution shift, and retrieval-augmented systems
+I am a pre-final year undergraduate specializing in Artificial Intelligence and Machine Learning at Rajalakshmi Engineering College. I enjoy learning new technologies, working on projects and exploring practical applications of AI and software development.
 
 ---
 
-### 🎯 Technical Interests
+## 2. Areas of Interest
 
-- **Applied Machine Learning & Deep Learning**: Supervised and unsupervised modeling, predictive analytics, neural architectures, and robust evaluation metrics.
-- **Reliable & Trustworthy AI**: Studying model stability, out-of-distribution behavior, data/concept drift detection, and failure analysis.
-- **Retrieval-Augmented Generation (RAG)**: Exploring knowledge retrieval workflows, vector embeddings, and semantic search integration.
-- **Backend & System Design**: Building RESTful APIs, data validation layers, and modular backend logic.
-- **Data Analytics & Visualization**: Exploratory data analysis (EDA), pattern discovery, and communicating insights with clarity.
+- Machine Learning and Deep Learning
+- Applied Artificial Intelligence
+- Data Science
+- Generative AI and RAG
+- Backend Development
 
 ---
 
-### 🛠 Tech Stack
+## 3. Tech Stack
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | `Python` *(Primary)*, `Java` *(Core OOP / Beginner)*, `C`, `Dart`, `SQL` |
-| **AI & Machine Learning** | `Scikit-learn`, `PyTorch`, `TensorFlow` *(Foundational)*, `Supervised Learning`, `Model Evaluation` |
-| **Data Science & Analytics** | `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Statistical Analysis`, `EDA` |
-| **Backend & Development** | `Flask`, `FastAPI` *(Foundational)*, `RESTful APIs`, `Core Java` |
-| **Databases** | `MySQL`, `SQLite`, `Relational Schema Design` |
-| **Developer Tools** | `Git`, `GitHub`, `GitHub Actions`, `VS Code`, `Linux/Bash` |
-| **Platforms & Design** | `Zoho Creator` *(Low-Code Development / Deluge)*, `Figma` |
+| **Languages** | Python *(Strongest)*, Java, C, Dart, SQL |
+| **AI / ML** | Scikit-learn, PyTorch, TensorFlow |
+| **Data** | NumPy, Pandas, Matplotlib, Seaborn |
+| **Backend** | FastAPI, Flask |
+| **Databases** | MySQL, SQLite |
+| **Tools** | Git, GitHub, VS Code, Figma |
 
 ---
 
-### 🌟 Featured Projects
+## 4. Featured Projects
 
-#### 1. [YatraSaathi](https://github.com/rohitam26/YatraSaathi)
-> **A location-aware journey companion engineered for transit alerts, GPS tracking, and safety check-ins.**
-- **Stack**: Flutter, Dart, Android Location Services, Local Notifications
-- **Key Capabilities**:
-  - Multi-stop GPS geofencing and proactive arrival proximity alarms for commuters on public transit.
-  - Emergency safety alerts and family check-in notifications.
-  - Offline-resilient architecture designed for low-connectivity routes with privacy-preserving on-device processing.
-- **Status**: Active Public Project · [View Repository →](https://github.com/rohitam26/YatraSaathi)
+### WorkloadLens
+An automation workload estimation and preview project developed for the UC-05 Cloud and SaaS Engineering Challenge.
 
-#### 2. [Student Academic Task Planner](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator)
-> **Centralized academic workflow and task organization platform built with Zoho Creator.**
-- **Stack**: Zoho Creator, Deluge Scripting, Cloud Data Modeling
-- **Key Capabilities**:
-  - Unified multi-course task tracking, milestone management, and coursework deadline monitoring.
-  - Role-based permissions, automated academic progress calculation, and centralized student registry.
-- **Status**: Academic Project · [View Repository →](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator)
+- **Key Highlights**:
+  - Workload validation using R1–R4 rules
+  - Tenant roles and subscription quota checks
+  - Idempotent workload submissions
+  - Deterministic workload time estimation using record count × 10 ms
+  - Workload run history
+- **Technologies**: Python, FastAPI, React, TypeScript, SQLAlchemy, SQLite, Docker, Terraform, Pytest
+- **Repository**: `UC-05_automation-workload`
+
+### YatraSaathi
+A Flutter application for journey tracking and destination arrival alerts.
+
+- **Key Highlights**:
+  - Journey tracking with multi-stop GPS location monitoring
+  - Destination arrival alerts and proximity notifications
+  - Safety check-in alerts designed for commuters
+- **Technologies**: Flutter, Dart, Android Location Services, Local Notifications
+- **Repository**: [rohitam26/YatraSaathi](https://github.com/rohitam26/YatraSaathi)
 
 ---
 
-### 📦 Latest Repositories
+## 5. Latest Repositories
 
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
@@ -85,35 +84,20 @@ My focus centers on the intersection of **Artificial Intelligence**, **statistic
 | [**Database-Management-Systems-Laboratory**](https://github.com/rohitam26/Database-Management-Systems-Laboratory) | _No description provided_ | — |
 <!-- PROJECTS:END -->
 
-> 🔄 *The table above is automatically updated daily via [GitHub Actions](.github/workflows/update-projects.yml) and [`update_projects.py`](scripts/update_projects.py).*
+---
+
+## 6. Research Interests
+
+Learning interests and exploratory focus areas:
+
+- Applied Machine Learning & Deep Learning
+- Retrieval-Augmented Generation
+- Backend & System Design
+- Data Analytics & Visualization
 
 ---
 
-### 🔬 Research & Technical Exploration
+## 7. Connect
 
-My academic exploration emphasizes practical reliability in modern AI:
-
-- **Trustworthy & Robust AI**: Investigating stability boundaries, noise tolerance, and calibration in machine learning models deployed under uncertainty.
-- **Concept & Data Drift Monitoring**: Exploring architectural concepts (such as the *DriftLens* exploratory framework) for statistical drift detection, data shift diagnostics, and performance degradation tracking in predictive pipelines.
-- **Retrieval-Augmented Generation (RAG)**: Exploring semantic search pipelines, vector embeddings, and chunking strategies to provide grounded domain-specific context to language models.
-- **Intelligent Decision Systems**: Studying how classical algorithmic optimization and machine learning work together in practical automation problems.
-
-> *Note: Topics listed above represent ongoing independent study, conceptual exploration, and laboratory experimentation.*
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-[![Rohita M's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitam26&theme=tokyonight&background=0D1117&border=30363D&stroke=30363D&ring=BB9AF7&fire=BB9AF7&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=8B949E)](https://github.com/rohitam26)
-
-</div>
-
----
-
-### 🤝 Connect & Collaborate
-
-- **GitHub**: [@rohitam26](https://github.com/rohitam26)
-- **Institution**: Rajalakshmi Engineering College (Autonomous), Chennai, India
-- **Collaboration**: Open to discussions on Applied AI, Machine Learning projects, and open-source software engineering.
+- **GitHub**: [github.com/rohitam26](https://github.com/rohitam26)
+- **LinkedIn**: [linkedin.com/in/rohita-muthu-a67b0332a](https://www.linkedin.com/in/rohita-muthu-a67b0332a)
