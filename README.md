@@ -73,6 +73,7 @@ An automation workload estimation and preview project developed for the UC-05 Cl
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
+| [**Low-Code-Application-Development-using-Zoho-Creator**](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Academic coursework planner and milestone tracking application built on the Zoho Creator cloud platform. | Deluge |
 | [**stockguard**](https://github.com/rohitam26/stockguard) | Enterprise Distributed Inventory Intelligence, Atomic Reservations & Saga Orchestration Engine | Python, JavaScript |
 | [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive web application experiments. | HTML, CSS |
 | [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | System programming, process scheduling, inter-process communication, and memory virtualization laboratory implementations in C. | C, Shell |
@@ -80,7 +81,6 @@ An automation workload estimation and preview project developed for the UC-05 Cl
 | [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Supervised and unsupervised learning algorithms, regression models, ensemble classifiers, and dimensionality reduction in Python. | Python |
 | [**Computer-Networks-Laboratory**](https://github.com/rohitam26/Computer-Networks-Laboratory) | Socket programming, packet sniffing, network routing protocols, and diagnostic networking experiments across layers. | Python, C |
 | [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search, constraint satisfaction, game trees, fuzzy logic, and Prolog. | Python, Prolog |
-| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Core syntax, data structures, recursion, file operations, and vectorized numerical computing using Python. | Python |
 <!-- PROJECTS:END -->
 
 ---
