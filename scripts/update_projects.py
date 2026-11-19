@@ -22,7 +22,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Union
 
 START_MARKER = "<!-- PROJECTS:START -->"
 END_MARKER = "<!-- PROJECTS:END -->"
@@ -123,7 +123,7 @@ def make_github_request(
     token: Optional[str] = None,
     username: str = "rohitam26",
     timeout: int = 15,
-) -> Optional[dict | list]:
+) -> Optional[Union[dict, list]]:
     """Execute a GET request against the GitHub REST API."""
     headers = {
         "Accept": "application/vnd.github.v3+json",
@@ -205,7 +205,7 @@ def fetch_repositories(
 def filter_and_sort_repositories(
     repos: List[Dict],
     username: str,
-    limit: int = 8,
+    limit: int = 15,
 ) -> List[Dict]:
     """
     Filter repositories:
@@ -424,7 +424,7 @@ def update_readme_content(
 def run(
     readme_path: Path,
     username: str,
-    limit: int = 8,
+    limit: int = 15,
     token: Optional[str] = None,
     fixture_path: Optional[Path] = None,
     dry_run: bool = False,
@@ -508,7 +508,7 @@ def main() -> int:
     parser.add_argument(
         "--limit",
         type=int,
-        default=8,
+        default=15,
         help="Maximum number of repositories to include (default: 8)",
     )
     parser.add_argument(
