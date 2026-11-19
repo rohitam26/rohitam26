@@ -23,7 +23,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/rohitam26/rohitam26/main/assets/coder.gif"/>
+<img align="right" width="220" src="./assets/coder.gif"/>
 
 ```python
 class Rohita:
