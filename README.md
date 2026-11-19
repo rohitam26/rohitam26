@@ -15,7 +15,7 @@
   <a href="mailto:rohitam256@gmail.com">
     <img src="https://img.shields.io/badge/Email-rohitam256%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Repos-16-38BDAE?style=flat-square&logo=github&logoColor=white" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/Repos-15-38BDAE?style=flat-square&logo=github&logoColor=white" alt="Public Repos"/>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -32,7 +32,7 @@ class Rohita:
         self.location     = "Chennai, Tamil Nadu 🇮🇳"
         self.degree       = "B.Tech – AI & ML @ REC, Chennai"
         self.email        = "rohitam256@gmail.com"
-        self.public_repos = 16
+        self.public_repos = 15
 
         self.stack = [
             "Python", "Java", "C", "Dart", "SQL", "JavaScript",
@@ -187,17 +187,6 @@ class Rohita:
 </details>
 
 <details>
-<summary><b>💑 Twogether (GehöreDir) — Shared Space Web Application</b></summary>
-
-> `HTML5` `CSS3` `Vanilla JavaScript` `LocalStorage` `Finance Tracker` `Dual Roles`
-
-- 🌸 Designed an aesthetic, intimate couples web application with real-time expense sharing, split balances, and milestone savings tracking.
-- 📅 Integrated a collaborative monthly calendar for shared events, anniversaries, and date nights with category filters.
-- ✅ Engineered joint to-do lists with role-based assignment badges ("Her" vs "Him") and dynamic sidebar notification counters.
-
-</details>
-
-<details>
 <summary><b>🧠 Deep Learning Laboratory — Neural Architectures, Computer Vision & Medical Imaging</b></summary>
 
 > `Python` `PyTorch 2.x` `TensorFlow` `CNN` `RNN` `LSTM` `Transfer Learning`
@@ -263,7 +252,6 @@ class Rohita:
 | [⚡ StockGuard](https://github.com/rohitam26/stockguard) | Python · FastAPI · PostgreSQL · Docker | Distributed reservations · Saga pattern · ACID compliance |
 | [🧭 YatraSaathi](https://github.com/rohitam26/YatraSaathi) | Flutter · Dart · Android Location · Notifications | Multi-stop GPS tracking · Proximity arrival alarms · 90/90 tests |
 | [🔍 WorkloadLens](https://github.com/rohitam26/UC-05_automation-workload) | Python · FastAPI · React · SQLite · Docker | R1–R4 rule validation · Quota checking · Idempotency |
-| [💑 Twogether (GehöreDir)](https://github.com/rohitam26/Geh-reDir) | HTML5 · CSS3 · Vanilla JS · LocalStorage | Couples shared space · Joint finances · Shared calendar |
 | [🧠 Deep Learning Lab](https://github.com/rohitam26/Deep-Learning-Laboratory) | Python · PyTorch · TensorFlow · Vision & NLP | CNN, RNN, LSTM architectures · Medical & vision datasets |
 | [🤖 Foundations of ML Lab](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Python · Scikit-Learn · NumPy · Pandas | Supervised & unsupervised learning · Ensemble classifiers · PCA |
 | [☁️ Zoho Creator Low-Code](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Deluge · Zoho Creator Cloud Platform | Coursework planner · Automated milestone tracking · RBAC |
@@ -282,7 +270,6 @@ class Rohita:
 | :--- | :--- | :--- |
 | [**stockguard**](https://github.com/rohitam26/stockguard) | Enterprise Distributed Inventory Intelligence, Atomic Reservations & Saga Orchestration Engine. | Python, SQL |
 | [**YatraSaathi**](https://github.com/rohitam26/YatraSaathi) | Location-aware journey companion with multi-stop GPS tracking, proximity arrival alarms, and safety check-ins built with Flutter. | Dart |
-| [**Geh-reDir**](https://github.com/rohitam26/Geh-reDir) | Twogether (GehöreDir) — An elegant, aesthetic shared space web application for couples featuring shared expenses, savings, joint calendar, to-dos, and life goals. | HTML, CSS, JavaScript |
 | [**Low-Code-Application-Development-using-Zoho-Creator**](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Academic coursework planner and milestone tracking application built on the Zoho Creator cloud platform. | Deluge |
 | [**Deep-Learning-Laboratory**](https://github.com/rohitam26/Deep-Learning-Laboratory) | Deep Learning laboratory experiments and mini-projects in PyTorch & TensorFlow across computer vision, NLP, and medical imaging. | Python |
 | [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Supervised, unsupervised, ensemble learning, and dimensionality reduction implementations with Scikit-learn and Python. | Python |
@@ -308,7 +295,6 @@ class Rohita:
 | ⚡ | **StockGuard Distributed Engine** | Engineered distributed reservation engine with Saga compensation and zero-oversell guarantee |
 | 📱 | **YatraSaathi Mobile Platform** | Built full-featured Flutter app with multi-stop GPS tracking and 90/90 unit & widget test coverage |
 | 🔍 | **UC-05 Automation Workload Challenge** | Architected deterministic workload estimation engine with R1–R4 rule validation and quotas |
-| 💑 | **Twogether Shared Space Platform** | Authored client-side couple management application with offline persistence and aesthetic UI |
 | 🧠 | **Deep Learning Laboratory** | Comprehensive PyTorch & TensorFlow implementations covering CNNs, RNNs, and transfer learning |
 | 🤖 | **Foundations of Machine Learning** | End-to-end ML algorithms, supervised classification/regression, ensemble modeling, and PCA |
 | 📊 | **Data Analytics & Visualization** | In-depth EDA pipelines, wrangling, and PowerBI-equivalent executive visual dashboards in Python |

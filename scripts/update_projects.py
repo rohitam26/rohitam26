@@ -218,6 +218,10 @@ def filter_and_sort_repositories(
     target_username = username.strip().lower()
 
     for repo in repos:
+        # Exclude private repositories
+        if repo.get("private", False):
+            continue
+
         # Exclude forks
         if repo.get("fork", False):
             continue
