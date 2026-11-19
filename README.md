@@ -29,6 +29,7 @@
 class Rohita:
     def __init__(self):
         self.name         = "Rohita Muthu"
+        self.role         = "Design Lead @ IEEE CIS REC Chapter"
         self.location     = "Chennai, Tamil Nadu 🇮🇳"
         self.degree       = "B.Tech – AI & ML @ REC, Chennai"
         self.email        = "rohitam256@gmail.com"
@@ -163,6 +164,18 @@ class Rohita:
 ## 💼 Featured Work Experience
 
 <details open>
+<summary><b>🎨 Design Lead — IEEE CIS REC Chapter | Sep 2026 – Present</b></summary>
+
+> `Visual Communication` `Creative Design` `UI/UX Branding` `Graphic Design` `Event Identity` `Leadership`
+
+- 🎨 **Creative Leadership**: Leading the creative direction and visual design initiatives for the **IEEE Computational Intelligence Society (IEEE CIS)** Student Chapter at Rajalakshmi Engineering College.
+- 📢 **Branding & Visual Identity**: Spearheading end-to-end visual communication, branding, typography, and media collaterals for society flagship events, technical workshops, symposiums, and national hackathons.
+- 👥 **Team Coordination & Mentorship**: Guiding design workflows, establishing consistent chapter visual guidelines, and collaborating with technical committees to produce engaging digital media.
+- 💎 **Core Competencies**: Visual Storytelling, Graphic Design, Brand Consistency, UI/UX Aesthetics, and Cross-Functional Event Execution.
+
+</details>
+
+<details>
 <summary><b>⚡ StockGuard — Distributed Inventory Reservation & Order Reliability Engine</b></summary>
 
 > `Python` `FastAPI` `PostgreSQL 16` `Docker` `Saga Pattern` `Transactional Outbox` `Idempotency`
@@ -305,6 +318,7 @@ class Rohita:
 
 | 🏅 | Achievement | Details |
 |:---:|:---|:---|
+| 🎨 | **Design Lead — IEEE CIS REC Chapter** | Spearheading creative direction, branding, and visual communication for society events & workshops |
 | ⚡ | **StockGuard Distributed Engine** | Engineered distributed reservation engine with Saga compensation and zero-oversell guarantee |
 | 📱 | **YatraSaathi Mobile Platform** | Built full-featured Flutter app with multi-stop GPS tracking and 90/90 unit & widget test coverage |
 | 🔍 | **UC-05 Automation Workload Challenge** | Architected deterministic workload estimation engine with R1–R4 rule validation and quotas |
