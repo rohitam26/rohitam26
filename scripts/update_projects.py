@@ -98,6 +98,10 @@ REPO_REGISTRY: Dict[str, Dict[str, str]] = {
         "description": "Automation workload estimation and preview engine with rule validation and idempotent execution.",
         "language": "Python, TypeScript",
     },
+    "stockguard": {
+        "description": "Distributed inventory reservation and checkout reliability engine with atomic conditional allocations and saga orchestration.",
+        "language": "Python, SQL",
+    },
 }
 
 
