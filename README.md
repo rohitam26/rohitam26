@@ -23,7 +23,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="220" src="./assets/coder.gif"/>
+<img align="right" width="220" src="./assets/female-coder.gif"/>
 
 ```python
 class Rohita:
