@@ -1,4 +1,4 @@
-name: Generate Contribution Snake Animation
+name: Generate Contribution Cat Animation
 
 on:
   schedule:
@@ -16,7 +16,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate GitHub Contribution Snake
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution Grid Runner
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +27,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake SVGs to output branch
+      - name: Transform Runner into Standalone Cat (No Tail)
+        run: |
+          sudo python3 scripts/transform_cat.py dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
