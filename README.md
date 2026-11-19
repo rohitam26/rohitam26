@@ -15,7 +15,7 @@
   <a href="mailto:rohitam256@gmail.com">
     <img src="https://img.shields.io/badge/Email-rohitam256%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Repos-15-38BDAE?style=flat-square&logo=github&logoColor=white" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/Repos-16-38BDAE?style=flat-square&logo=github&logoColor=white" alt="Public Repos"/>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -32,7 +32,7 @@ class Rohita:
         self.location     = "Chennai, Tamil Nadu 🇮🇳"
         self.degree       = "B.Tech – AI & ML @ REC, Chennai"
         self.email        = "rohitam256@gmail.com"
-        self.public_repos = 15
+        self.public_repos = 16
 
         self.stack = [
             "Python", "Java", "C", "Dart", "SQL", "JavaScript",
@@ -281,6 +281,7 @@ class Rohita:
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
 | [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive web application experiments. | HTML, CSS |
+| [**C-Programming-Laboratory**](https://github.com/rohitam26/C-Programming-Laboratory) | Fundamental programming concepts, control structures, pointer arithmetic, structures, and modular C implementations. | C |
 | [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Core syntax, data structures, recursion, file operations, and vectorized numerical computing using Python. | Python |
 | [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search, constraint satisfaction, game trees, fuzzy logic, and Prolog. | Python, Prolog |
 | [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | System programming, process scheduling, inter-process communication, and memory virtualization laboratory implementations in C. | C, Shell |
