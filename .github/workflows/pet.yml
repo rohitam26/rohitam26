@@ -1,0 +1,33 @@
+name: YourTomo Pet Cat
+
+on:
+  schedule:
+    - cron: '23 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'dist/**'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate YourTomo Cat
+        uses: prsdx/github-pet@v1
+        with:
+          username: rohitam26
+          timezone-offset-minutes: "330"
+          display-name: "Rohita"
+          pet-name: "Mochi"
+          accent-color: "#70a5fd"
+          contact-line: "rohitam256@gmail.com"
+          output-dir: "dist"

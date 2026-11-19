@@ -133,13 +133,13 @@ class Rohita:
 
 ---
 
-## 🐱 Contribution Graph
+## 🐱 Profile Companion
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Cat" src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/main/dist/pet.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/main/dist/pet-light.svg">
+    <img alt="Mochi the Cat" src="https://raw.githubusercontent.com/rohitam26/rohitam26/main/dist/pet.svg" width="100%">
   </picture>
 </div>
 
