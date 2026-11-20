@@ -1,4 +1,4 @@
-name: Generate Contribution Cat Animation & Animated Activity Graph
+name: Generate Contribution Cat Animation & Animated Activity Graphs
 
 on:
   schedule:
@@ -34,9 +34,9 @@ jobs:
         run: |
           python3 scripts/transform_cat.py dist/github-contribution-grid-cat.svg dist/github-contribution-grid-cat-dark.svg
 
-      - name: Generate Animated Activity Graph
+      - name: Generate All Animated Activity Graph Variants
         run: |
-          python3 scripts/generate_animated_activity.py dist/activity-graph.svg
+          python3 scripts/generate_all_animation_variants.py dist
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
