@@ -138,9 +138,9 @@ class Rohita:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat.svg">
-    <img alt="GitHub Contribution Cat" src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat.svg?v=2">
+    <img alt="GitHub Contribution Cat" src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg?v=2" />
   </picture>
 </div>
 
@@ -149,7 +149,7 @@ class Rohita:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitam26&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph.svg?v=2" alt="Activity Graph"/>
 </div>
 
 ---

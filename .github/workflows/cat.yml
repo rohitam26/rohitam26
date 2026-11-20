@@ -1,4 +1,4 @@
-name: Generate Contribution Cat Animation
+name: Generate Contribution Cat Animation & Animated Activity Graph
 
 on:
   schedule:
@@ -27,9 +27,16 @@ jobs:
             dist/github-contribution-grid-cat.svg
             dist/github-contribution-grid-cat-dark.svg?palette=github-dark
 
+      - name: Fix permissions
+        run: sudo chown -R $USER:$USER dist/
+
       - name: Transform Runner into Standalone Cat (No Tail)
         run: |
-          sudo python3 scripts/transform_cat.py dist/github-contribution-grid-cat.svg dist/github-contribution-grid-cat-dark.svg
+          python3 scripts/transform_cat.py dist/github-contribution-grid-cat.svg dist/github-contribution-grid-cat-dark.svg
+
+      - name: Generate Animated Activity Graph
+        run: |
+          python3 scripts/generate_animated_activity.py dist/activity-graph.svg
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
