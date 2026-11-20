@@ -149,44 +149,8 @@ class Rohita:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="./github-metrics/activity-graph-fusion.svg" alt="Activity Graph"/>
+  <img src="./github-metrics/activity-graph.svg" alt="Activity Graph"/>
 </div>
-
-<details>
-<summary><b>✨ Preview All 6 Animation Effects (Click to Expand)</b></summary>
-<br/>
-
-#### 1. 🌠 Riding Comet Particle (`animateMotion` Traversing Peaks & Valleys)
-<div align="center">
-  <img src="./github-metrics/activity-graph-comet.svg" alt="Riding Comet Particle"/>
-</div>
-
-#### 2. 📡 Holographic Radar / Oscilloscope Scanner Beam
-<div align="center">
-  <img src="./github-metrics/activity-graph-radar.svg" alt="Radar Scanner Beam"/>
-</div>
-
-#### 3. 🌌 Aurora Borealis Shifting Liquid Gradient
-<div align="center">
-  <img src="./github-metrics/activity-graph-aurora.svg" alt="Aurora Liquid Gradient"/>
-</div>
-
-#### 4. 👑 Peak Milestone Twinkling Stars (Summit Highlights)
-<div align="center">
-  <img src="./github-metrics/activity-graph-peaks.svg" alt="Peak Milestone Sparkles"/>
-</div>
-
-#### 5. 🌐 Cyberpunk Matrix Hologram Grid
-<div align="center">
-  <img src="./github-metrics/activity-graph-grid.svg" alt="Cyberpunk Grid"/>
-</div>
-
-#### 6. ⚡ The Ultimate Fusion (All Effects Synchronized)
-<div align="center">
-  <img src="./github-metrics/activity-graph-fusion.svg" alt="The Ultimate Fusion"/>
-</div>
-
-</details>
 
 ---
 

@@ -283,9 +283,9 @@ def generate_variants(raw_base_svg, out_dir):
     with open(os.path.join(out_dir, "activity-graph-fusion.svg"), "w", encoding="utf-8") as f:
         f.write(v6)
     
-    # Also save fusion as the main activity-graph.svg default
+    # Save Variant 4 (Peak Milestone Twinkling Stars) as the main activity-graph.svg default
     with open(os.path.join(out_dir, "activity-graph.svg"), "w", encoding="utf-8") as f:
-        f.write(v6)
+        f.write(v4)
 
     print("All 6 Animation Variants generated successfully in", out_dir)
 
