@@ -138,9 +138,9 @@ class Rohita:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat.svg?v=2">
-    <img alt="GitHub Contribution Cat" src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-metrics/github-contribution-grid-cat-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./github-metrics/github-contribution-grid-cat.svg">
+    <img alt="GitHub Contribution Cat" src="./github-metrics/github-contribution-grid-cat-dark.svg" />
   </picture>
 </div>
 
@@ -149,7 +149,7 @@ class Rohita:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph.svg?v=2" alt="Activity Graph"/>
+  <img src="./github-metrics/activity-graph.svg" alt="Activity Graph"/>
 </div>
 
 <details>
@@ -158,27 +158,27 @@ class Rohita:
 
 #### 1. 🌠 Riding Comet Particle (`animateMotion` Traversing Peaks & Valleys)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph-comet.svg?v=2" alt="Riding Comet Particle"/>
+  <img src="./github-metrics/activity-graph-comet.svg" alt="Riding Comet Particle"/>
 </div>
 
 #### 2. 📡 Holographic Radar / Oscilloscope Scanner Beam
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph-radar.svg?v=2" alt="Radar Scanner Beam"/>
+  <img src="./github-metrics/activity-graph-radar.svg" alt="Radar Scanner Beam"/>
 </div>
 
 #### 3. 🌌 Aurora Borealis Shifting Liquid Gradient
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph-aurora.svg?v=2" alt="Aurora Liquid Gradient"/>
+  <img src="./github-metrics/activity-graph-aurora.svg" alt="Aurora Liquid Gradient"/>
 </div>
 
 #### 4. 👑 Peak Milestone Twinkling Stars (Summit Highlights)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph-peaks.svg?v=2" alt="Peak Milestone Sparkles"/>
+  <img src="./github-metrics/activity-graph-peaks.svg" alt="Peak Milestone Sparkles"/>
 </div>
 
 #### 5. 🌐 Cyberpunk Matrix Hologram Grid
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph-grid.svg?v=2" alt="Cyberpunk Grid"/>
+  <img src="./github-metrics/activity-graph-grid.svg" alt="Cyberpunk Grid"/>
 </div>
 
 </details>

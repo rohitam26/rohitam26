@@ -38,6 +38,15 @@ jobs:
         run: |
           python3 scripts/generate_all_animation_variants.py dist
 
+      - name: Sync to github-metrics on main
+        run: |
+          mkdir -p github-metrics
+          cp dist/*.svg github-metrics/
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-metrics/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(metrics): auto-sync live SVGs to github-metrics" && git push origin main) || true
+
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
