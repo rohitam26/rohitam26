@@ -119,9 +119,9 @@ class Rohita:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="./github-metrics/stats.svg?v=1" alt="Rohita's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitam26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&icon_color=38BDAE" alt="Rohita's GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="./github-metrics/top-langs.svg?v=1" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitam26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 ---
@@ -129,7 +129,7 @@ class Rohita:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="./streak.svg" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rohitam26&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
