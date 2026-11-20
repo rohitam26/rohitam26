@@ -293,21 +293,14 @@ class Rohita:
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
+| [**C-Programming-Laboratory**](https://github.com/rohitam26/C-Programming-Laboratory) | Comprehensive C Programming Laboratory records and coursework covering fundamental to advanced programming concepts spanning 16 weeks of experiments. | Documentation |
 | [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive web application experiments. | HTML, CSS |
-| [**C-Programming-Laboratory**](https://github.com/rohitam26/C-Programming-Laboratory) | Fundamental programming concepts, control structures, pointer arithmetic, structures, and modular C implementations. | C |
 | [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Core syntax, data structures, recursion, file operations, and vectorized numerical computing using Python. | Python |
 | [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search, constraint satisfaction, game trees, fuzzy logic, and Prolog. | Python, Prolog |
 | [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | System programming, process scheduling, inter-process communication, and memory virtualization laboratory implementations in C. | C, Shell |
 | [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | Core object-oriented programming principles, modern Java collections, exception handling, and JDBC database applications. | Java |
 | [**Low-Code-Application-Development-using-Zoho-Creator**](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Academic coursework planner and milestone tracking application built on the Zoho Creator cloud platform. | Deluge |
 | [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Supervised and unsupervised learning algorithms, regression models, ensemble classifiers, and dimensionality reduction in Python. | Python |
-| [**Design-and-Analysis-of-Algorithms-Laboratory**](https://github.com/rohitam26/Design-and-Analysis-of-Algorithms-Laboratory) | Algorithm design paradigms, asymptotic analysis, divide and conquer, greedy strategies, and dynamic programming in C. | C |
-| [**Deep-Learning-Laboratory**](https://github.com/rohitam26/Deep-Learning-Laboratory) | Neural network architectures, optimization techniques, computer vision, sequence models, and deep generative implementations in Python. | Python |
-| [**Database-Management-Systems-Laboratory**](https://github.com/rohitam26/Database-Management-Systems-Laboratory) | Relational schema design, complex SQL queries, PL/SQL procedures, triggers, and MongoDB NoSQL database operations. | SQL, PL/SQL |
-| [**Data-Analytics-and-Visualization-Laboratory**](https://github.com/rohitam26/Data-Analytics-and-Visualization-Laboratory) | Exploratory data analysis, statistical data wrangling, and multi-variable visual dashboards using Pandas and Seaborn. | Python |
-| [**Computer-Networks-Laboratory**](https://github.com/rohitam26/Computer-Networks-Laboratory) | Socket programming, packet sniffing, network routing protocols, and diagnostic networking experiments across layers. | Python, C |
-| [**YatraSaathi**](https://github.com/rohitam26/YatraSaathi) | Location-aware journey companion with multi-stop GPS tracking, proximity arrival alarms, and safety check-ins. | Dart |
-| [**stockguard**](https://github.com/rohitam26/stockguard) | Distributed inventory reservation and checkout reliability engine with atomic conditional allocations and saga orchestration. | Python, JavaScript |
 <!-- PROJECTS:END -->
 
 ---
