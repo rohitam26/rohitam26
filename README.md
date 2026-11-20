@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e3a8a,70:2563eb,100:38bdf8&height=200&section=header&text=ROHITA%20MUTHU&fontSize=48&fontColor=ffffff&animation=twinkling&v=2" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:581c87,70:7c3aed,100:1d4ed8&height=200&section=header&text=ROHITA%20MUTHU&fontSize=48&fontColor=ffffff&animation=twinkling&v=2" alt="header"/>
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I%27m+Rohita+Muthu+%F0%9F%91%8B;Pre-Final+Year+AIML+Undergraduate;Python+%7C+PyTorch+%7C+Flutter+Developer;Applied+AI+%26+Deep+Learning+%F0%9F%A7%A0;Building+Practical+Software+%26+AI+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/rohitam26">
-    <img src="https://komarev.com/ghpvc/?username=rohitam26&label=Profile+Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=rohitam26&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://www.linkedin.com/in/rohita-muthu-a67b0332a">
     <img src="https://img.shields.io/badge/LinkedIn-Rohita%20Muthu-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,9 +15,8 @@
   <a href="mailto:rohitam256@gmail.com">
     <img src="https://img.shields.io/badge/Email-rohitam256%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Repos-17-38bdf8?style=flat-square&logo=github&logoColor=white" alt="Public Repos"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Roles-38bdf8?style=flat-square" alt="Hireable"/>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38bdf8?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Repos-16-38BDAE?style=flat-square&logo=github&logoColor=white" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
@@ -30,11 +29,11 @@
 class Rohita:
     def __init__(self):
         self.name         = "Rohita Muthu"
-        self.role         = "AI/ML Engineering Student & Developer"
+        self.role         = "Design Lead @ IEEE CIS REC Chapter"
         self.location     = "Chennai, Tamil Nadu 🇮🇳"
         self.degree       = "B.Tech – AI & ML @ REC, Chennai"
         self.email        = "rohitam256@gmail.com"
-        self.public_repos = 17
+        self.public_repos = 16
 
         self.stack = [
             "Python", "Java", "C", "Dart", "SQL", "JavaScript",
@@ -120,9 +119,9 @@ class Rohita:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitam26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=E6EDF3&icon_color=38BDAE" alt="Rohita's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitam26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&icon_color=38BDAE" alt="Rohita's GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitam26&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=E6EDF3" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitam26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 ---
@@ -130,18 +129,18 @@ class Rohita:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohitam26&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rohitam26&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🐉 Contribution Graph
+## 🐱 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-dragon-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-dragon.svg">
-    <img alt="GitHub Contribution Dragon" src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-dragon-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat.svg">
+    <img alt="GitHub Contribution Cat" src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/github-contribution-grid-cat-dark.svg" />
   </picture>
 </div>
 
@@ -150,7 +149,7 @@ class Rohita:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitam26/rohitam26/output/activity-graph.svg" alt="Rohita's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitam26&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -162,22 +161,128 @@ class Rohita:
 
 ---
 
+## 💼 Featured Work Experience
+
+<details open>
+<summary><b>🎨 Design Lead — IEEE CIS REC Chapter | Sep 2026 – Present</b></summary>
+
+> `Visual Communication` `Creative Design` `UI/UX Branding` `Graphic Design` `Event Identity` `Leadership`
+
+- 🎨 **Creative Leadership**: Leading the creative direction and visual design initiatives for the **IEEE Computational Intelligence Society (IEEE CIS)** Student Chapter at Rajalakshmi Engineering College.
+- 📢 **Branding & Visual Identity**: Spearheading end-to-end visual communication, branding, typography, and media collaterals for society flagship events, technical workshops, symposiums, and national hackathons.
+- 👥 **Team Coordination & Mentorship**: Guiding design workflows, establishing consistent chapter visual guidelines, and collaborating with technical committees to produce engaging digital media.
+- 💎 **Core Competencies**: Visual Storytelling, Graphic Design, Brand Consistency, UI/UX Aesthetics, and Cross-Functional Event Execution.
+
+</details>
+
+<details>
+<summary><b>⚡ StockGuard — Distributed Inventory Reservation & Order Reliability Engine</b></summary>
+
+> `Python` `FastAPI` `PostgreSQL 16` `Docker` `Saga Pattern` `Transactional Outbox` `Idempotency`
+
+- 🏗️ Engineered a high-throughput **distributed inventory reservation engine** designed to eliminate overselling during high-contention flash sales.
+- 🔒 Implemented strict **ACID transactional isolation**, atomic conditional allocations (`UPDATE ... WHERE available >= requested`), and idempotent reservation validation.
+- 🔄 Architected a **Transactional Outbox Event Pipeline** with backward-compensating **Saga Orchestration** for multi-step order checkout flows.
+- 🧪 Achieved zero oversell under concurrent load tests, backed by comprehensive end-to-end integration and concurrency testing suites.
+
+</details>
+
+<details>
+<summary><b>🧭 YatraSaathi — Location-Aware Journey Companion & Safety Alerts</b></summary>
+
+> `Flutter 3` `Dart` `Android Location Services` `Background Geofencing` `Local Notifications`
+
+- 📱 Developed a full-fledged cross-platform mobile journey companion for commuters with real-time GPS tracking and waypoint management.
+- 📍 Engineered **multi-stop proximity arrival alarms** that trigger audio-haptic alerts upon entering customizable geofenced radii.
+- 🛡️ Built automated **commuter safety check-ins** and emergency alert broadcasts to trusted contacts upon route deviations.
+- 🧪 Maintained production-grade reliability with **90/90 passed automated unit and widget test cases**.
+
+</details>
+
+<details>
+<summary><b>🔍 WorkloadLens — Automation Workload Estimation & Preview System</b></summary>
+
+> `Python` `FastAPI` `React` `TypeScript` `SQLite` `Docker` `Terraform` `Pytest`
+
+- 🏗️ Developed an automation workload estimation and preview platform for the **UC-05 Cloud & SaaS Engineering Challenge**.
+- 📋 Implemented a deterministic validation engine enforcing **R1–R4 rule sets**, tenant authorization, and subscription quota limits.
+- ⚡ Engineered an idempotent workload submission pipeline with deterministic execution time prediction (`record count × 10 ms`).
+- 📊 Delivered a responsive React + TypeScript dashboard with interactive workload run inspection and state transition auditing.
+
+</details>
+
+<details>
+<summary><b>🧠 Deep Learning Laboratory — Neural Architectures, Computer Vision & Medical Imaging</b></summary>
+
+> `Python` `PyTorch 2.x` `TensorFlow` `CNN` `RNN` `LSTM` `Transfer Learning`
+
+- 🔬 Implemented deep convolutional and recurrent architectures across computer vision, sequence analysis, and clinical diagnostic datasets.
+- 🖼️ Trained and fine-tuned CNN classifiers for image classification and medical imaging segmentation with robust regularization.
+- 📈 Evaluated performance across standard benchmark datasets with ROC-AUC, confusion matrices, and precision-recall trade-offs.
+
+</details>
+
+<details>
+<summary><b>🤖 Foundations of Machine Learning — Supervised, Unsupervised & Ensemble Algorithms</b></summary>
+
+> `Python` `Scikit-Learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
+
+- 📊 Implemented end-to-end ML workflows: exploratory data analysis, feature engineering, cross-validation, and hyperparameter tuning.
+- 🌲 Evaluated linear/logistic regression, decision trees, random forests, gradient boosting, SVMs, and k-means clustering.
+- 📐 Formulated rigorous model evaluations with ablation studies and dimensionality reduction using Principal Component Analysis (PCA).
+
+</details>
+
+<details>
+<summary><b>☁️ Low-Code Application Development — Zoho Creator Cloud Platform</b></summary>
+
+> `Deluge Scripting` `Zoho Creator` `Cloud Architecture` `Workflow Automation` `RBAC`
+
+- 🚀 Engineered an end-to-end academic coursework planner and milestone tracking application hosted on the Zoho Creator cloud platform.
+- ⚙️ Authored complex **Deluge workflow scripts** for automated record updates, email notifications, and validation triggers.
+- 👥 Configured granular role-based access control (RBAC), personalized dashboards, and interactive Kanban progress views.
+
+</details>
+
+<details>
+<summary><b>🌐 Web Technology & Mobile Applications — Full-Stack & Native Android</b></summary>
+
+> `React 19` `Vite` `Java Servlets` `Android` `REST APIs` `CSS3`
+
+- 💻 Developed responsive web portals using modern semantic HTML5, CSS3, JavaScript, and a high-performance **React 19 + Vite** Single Page Application.
+- ☕ Implemented server-side business logic and database interactions using **Java Servlets and JDBC**.
+- 📱 Engineered native Android mobile application components with clean activity lifecycles and modern UI controls.
+
+</details>
+
+<details>
+<summary><b>🖥️ Operating Systems — POSIX Systems Programming & Kernel Concepts</b></summary>
+
+> `C` `POSIX APIs` `Process Scheduling` `IPC` `Memory Virtualization` `Shell`
+
+- ⚙️ Implemented foundational operating systems algorithms in C: CPU scheduling (FCFS, SJF, Round Robin, Priority) and deadlock avoidance (Banker's Algorithm).
+- 🔄 Developed inter-process communication (IPC) pipelines using UNIX pipes, shared memory, and message queues.
+- 🛡️ Simulated memory management schemes including paging, segmentation, and page replacement policies (FIFO, LRU, Optimal).
+
+</details>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights & Metrics |
 |:---|:---|:---|
-| [⚡ **StockGuard**](https://github.com/rohitam26/stockguard) | Python · FastAPI · PostgreSQL · Docker | Distributed reservations · Saga pattern · ACID compliance |
-| [🧭 **YatraSaathi**](https://github.com/rohitam26/YatraSaathi) | Flutter · Dart · Android Location · Notifications | Multi-stop GPS tracking · Proximity arrival alarms · 90/90 tests |
-| [💑 **Geh-reDir (Twogether)**](https://github.com/rohitam26/Geh-reDir) | HTML5 · CSS3 · Modern JavaScript | Aesthetic shared couples space · Expense split · Joint calendar |
-| [🧠 **Deep Learning Lab**](https://github.com/rohitam26/Deep-Learning-Laboratory) | Python · PyTorch · TensorFlow · Vision & NLP | CNN, RNN, LSTM architectures · Medical & vision datasets |
-| [🤖 **Foundations of ML Lab**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Python · Scikit-Learn · NumPy · Pandas | Supervised & unsupervised learning · Ensemble classifiers · PCA |
-| [☁️ **Zoho Creator Low-Code**](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Deluge · Zoho Creator Cloud Platform | Coursework planner · Automated milestone tracking · RBAC |
-| [🌐 **Web & Mobile Apps Lab**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | React 19 · Vite · Java Servlets · Android | Client portals · Servlets · Mobile components · SPAs |
-| [🖥️ **Operating Systems Lab**](https://github.com/rohitam26/Operating-Systems-Laboratory) | C · POSIX · Linux Shell | Process scheduling · IPC synchronization · Memory virtualization |
-| [📡 **Computer Networks Lab**](https://github.com/rohitam26/Computer-Networks-Laboratory) | Python · C · Wireshark · Packet Tracer | Socket programming · RIP routing · Raw packet sniffing |
-| [🔍 **Principles of AI Lab**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Python · Prolog · Heuristic Search | A*, Minimax, CSP, Knowledge representation & fuzzy logic |
+| [⚡ StockGuard](https://github.com/rohitam26/stockguard) | Python · FastAPI · PostgreSQL · Docker | Distributed reservations · Saga pattern · ACID compliance |
+| [🧭 YatraSaathi](https://github.com/rohitam26/YatraSaathi) | Flutter · Dart · Android Location · Notifications | Multi-stop GPS tracking · Proximity arrival alarms · 90/90 tests |
+| [🔍 WorkloadLens](https://github.com/rohitam26/UC-05_automation-workload) | Python · FastAPI · React · SQLite · Docker | R1–R4 rule validation · Quota checking · Idempotency |
+| [🧠 Deep Learning Lab](https://github.com/rohitam26/Deep-Learning-Laboratory) | Python · PyTorch · TensorFlow · Vision & NLP | CNN, RNN, LSTM architectures · Medical & vision datasets |
+| [🤖 Foundations of ML Lab](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Python · Scikit-Learn · NumPy · Pandas | Supervised & unsupervised learning · Ensemble classifiers · PCA |
+| [☁️ Zoho Creator Low-Code](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Deluge · Zoho Creator Cloud Platform | Coursework planner · Automated milestone tracking · RBAC |
+| [🌐 Web & Mobile Apps Lab](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | React 19 · Vite · Java Servlets · Android | Client portals · Servlets · Mobile components · SPAs |
+| [🖥️ Operating Systems Lab](https://github.com/rohitam26/Operating-Systems-Laboratory) | C · POSIX · Linux Shell | Process scheduling · IPC synchronization · Memory virtualization |
+| [📡 Computer Networks Lab](https://github.com/rohitam26/Computer-Networks-Laboratory) | Python · C · Wireshark · Packet Tracer | Socket programming · RIP routing · Raw packet sniffing |
 
 </div>
 
@@ -188,40 +293,31 @@ class Rohita:
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
-| [**stockguard**](https://github.com/rohitam26/stockguard) | Enterprise Distributed Inventory Intelligence, Atomic Reservations & Saga Orchestration Engine. | Python |
-| [**YatraSaathi**](https://github.com/rohitam26/YatraSaathi) | Location-aware journey companion with multi-stop GPS tracking, proximity arrival alarms, and safety check-ins built with Flutter. | Dart |
-| [**Geh-reDir**](https://github.com/rohitam26/Geh-reDir) | Twogether (GehöreDir) — An elegant, aesthetic shared space web application for couples featuring shared expenses, savings, joint calendar, to-dos, and life goals. | HTML |
-| [**Deep-Learning-Laboratory**](https://github.com/rohitam26/Deep-Learning-Laboratory) | Deep Learning laboratory experiments and mini-projects in PyTorch & TensorFlow across computer vision, NLP, and medical imaging. | Jupyter Notebook |
-| [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Supervised, unsupervised, ensemble learning, and dimensionality reduction implementations with Scikit-learn and Python. | Python |
-| [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search (A*, Minimax), CSP, knowledge representation, fuzzy logic, and Prolog. | Python |
-| [**Data-Analytics-and-Visualization-Laboratory**](https://github.com/rohitam26/Data-Analytics-and-Visualization-Laboratory) | Exploratory data analysis, statistical data wrangling, and multi-variable visual dashboards using Pandas and Seaborn. | Jupyter Notebook |
-| [**Database-Management-Systems-Laboratory**](https://github.com/rohitam26/Database-Management-Systems-Laboratory) | Relational schema design, advanced SQL, PL/SQL programmability, database triggers, and NoSQL MongoDB administration. | SQL |
-| [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | Operating system concepts, POSIX system calls, process scheduling, inter-process communication (IPC), and memory management in C. | C, Shell |
-| [**Computer-Networks-Laboratory**](https://github.com/rohitam26/Computer-Networks-Laboratory) | Protocol engineering, socket programming, network layer routing, and packet inspection across OSI & TCP/IP layers. | Python, C |
-| [**Design-and-Analysis-of-Algorithms-Laboratory**](https://github.com/rohitam26/Design-and-Analysis-of-Algorithms-Laboratory) | Comprehensive algorithmic design paradigms, asymptotic analysis, dynamic programming, greedy strategies, and graph algorithms in C. | C |
-| [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | Core OOP principles, modern Java collections framework, exception handling, multithreading, and JDBC database applications. | Java |
-| [**C-Programming-Laboratory**](https://github.com/rohitam26/C-Programming-Laboratory) | Comprehensive C Programming Laboratory records and coursework covering fundamental to advanced programming concepts spanning 16 weeks of experiments. | C |
-| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Python programming curriculum covering core syntax, data structures, functional paradigms, file I/O, and NumPy vectorized computing. | Python |
-| [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive React 19 single-page applications. | HTML, React |
+| [**C-Programming-Laboratory**](https://github.com/rohitam26/C-Programming-Laboratory) | Comprehensive C Programming Laboratory records and coursework covering fundamental to advanced programming concepts spanning 16 weeks of experiments. | Documentation |
+| [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive web application experiments. | HTML, CSS |
+| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Core syntax, data structures, recursion, file operations, and vectorized numerical computing using Python. | Python |
+| [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search, constraint satisfaction, game trees, fuzzy logic, and Prolog. | Python, Prolog |
+| [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | System programming, process scheduling, inter-process communication, and memory virtualization laboratory implementations in C. | C, Shell |
+| [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | Core object-oriented programming principles, modern Java collections, exception handling, and JDBC database applications. | Java |
 | [**Low-Code-Application-Development-using-Zoho-Creator**](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Academic coursework planner and milestone tracking application built on the Zoho Creator cloud platform. | Deluge |
-| [**rohitam26**](https://github.com/rohitam26/rohitam26) | Personal GitHub Profile repository with automated contribution tracking and mythical azure dragon runner animation. | Markdown, Workflow |
+| [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Supervised and unsupervised learning algorithms, regression models, ensemble classifiers, and dimensionality reduction in Python. | Python |
 <!-- PROJECTS:END -->
 
 ---
 
-## 🎖️ Achievements & Academic Highlights
+## 🎖️ Achievements & Certifications
 
 <div align="center">
 
-| 🏅 | Milestone | Details |
+| 🏅 | Achievement | Details |
 |:---:|:---|:---|
-| 🎓 | **Pre-Final Year AIML Undergraduate** | Rajalakshmi Engineering College — Specialized in Applied AI, Deep Learning & Intelligent Systems |
+| 🎨 | **Design Lead — IEEE CIS REC Chapter** | Spearheading creative direction, branding, and visual communication for society events & workshops |
 | ⚡ | **StockGuard Distributed Engine** | Engineered distributed reservation engine with Saga compensation and zero-oversell guarantee |
 | 📱 | **YatraSaathi Mobile Platform** | Built full-featured Flutter app with multi-stop GPS tracking and 90/90 unit & widget test coverage |
-| 💑 | **Twogether (GehöreDir) App** | Architected shared life and financial management web application for couples |
+| 🔍 | **UC-05 Automation Workload Challenge** | Architected deterministic workload estimation engine with R1–R4 rule validation and quotas |
 | 🧠 | **Deep Learning Laboratory** | Comprehensive PyTorch & TensorFlow implementations covering CNNs, RNNs, and transfer learning |
 | 🤖 | **Foundations of Machine Learning** | End-to-end ML algorithms, supervised classification/regression, ensemble modeling, and PCA |
-| 📊 | **Data Analytics & Visualization** | In-depth EDA pipelines, wrangling, and interactive multi-variable visual dashboards in Python |
+| 📊 | **Data Analytics & Visualization** | In-depth EDA pipelines, wrangling, and PowerBI-equivalent executive visual dashboards in Python |
 | ☁️ | **Zoho Creator Cloud Engineering** | End-to-end low-code cloud architecture with complex Deluge automation workflows and RBAC |
 | 🗄️ | **Relational & NoSQL Database Systems** | Advanced SQL, PL/SQL stored procedures, triggers, and document-oriented MongoDB querying |
 | 🖥️ | **Operating Systems & Systems Programming** | POSIX system call implementations, synchronization primitives, and custom CPU schedulers in C |
@@ -237,7 +333,7 @@ class Rohita:
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Status |
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
 |:---|:---|:---|:---|
 | B.Tech – Artificial Intelligence & Machine Learning | Rajalakshmi Engineering College, Chennai | Pre-Final Year | In Progress |
 
@@ -257,7 +353,7 @@ class Rohita:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e3a8a,70:2563eb,100:38bdf8&height=120&section=footer&animation=twinkling&v=2" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:581c87,70:7c3aed,100:1d4ed8&height=120&section=footer&animation=twinkling&v=2" alt="footer"/>
 </div>
 <p align="center">
   <i>⭐ If you find my work interesting, consider giving a star to my repos!</i><br/>
