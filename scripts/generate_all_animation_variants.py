@@ -23,14 +23,25 @@ def fetch_base_svg():
         with urllib.request.urlopen(req_fallback, timeout=15) as resp:
             return resp.read().decode('utf-8')
 
+def sanitize_svg_header(svg):
+    """Replace foreignObject with standard SVG text to avoid WebKit/Camo issues."""
+    svg = re.sub(
+        r'<foreignObject[^>]*>.*?<h1[^>]*>(.*?)</h1>.*?</foreignObject>',
+        r'<text x="600" y="38" text-anchor="middle" fill="#70a5fd" font-size="20" font-weight="600" font-family="\'Segoe UI\', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif">\1</text>',
+        svg,
+        flags=re.DOTALL
+    )
+    return svg
+
 def get_line_path(svg):
     m = re.search(r'<path[^>]*class="ct-line"[^>]*d="([^"]+)"', svg)
     if not m:
         m = re.search(r'<path[^>]*d="([^"]+)"[^>]*class="ct-line"', svg)
     return m.group(1) if m else ""
 
-def generate_variants(base_svg, out_dir):
+def generate_variants(raw_base_svg, out_dir):
     os.makedirs(out_dir, exist_ok=True)
+    base_svg = sanitize_svg_header(raw_base_svg)
     line_path = get_line_path(base_svg)
 
     # 1. Base Styles & Filters
@@ -67,17 +78,15 @@ def generate_variants(base_svg, out_dir):
   </filter>
 </defs>"""
 
-    # Helper to inject defs
     def inject_defs(svg, defs):
         return re.sub(r'(<svg[^>]*>)', r'\1\n' + defs, svg, count=1)
 
-    # Base point animation
+    # Base point pulsation
     point_anim = (
         '<animate attributeName="stroke-width" values="6;13;6" dur="1.8s" repeatCount="indefinite" />'
         '<animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite" />'
     )
 
-    # Standard styling
     base_css = """
     .ct-series-a .ct-area {
       fill: url(#areaGradBase) !important;
@@ -153,7 +162,6 @@ def generate_variants(base_svg, out_dir):
     v3 = v3.replace('</style>', aurora_css + '\n</style>')
     v3 = re.sub(r'(<line[^>]*?class="ct-point"[^>]*?>)(</line>)', r'\g<1>' + point_anim + r'\g<2>', v3)
     
-    # Breathing line color shift
     line_aurora_anim = (
         '>'
         '<animate attributeName="stroke" values="#bf91f3;#38bdf8;#34d399;#f472b6;#bf91f3" dur="8s" repeatCount="indefinite" />'
@@ -170,9 +178,6 @@ def generate_variants(base_svg, out_dir):
     v4 = v4.replace('</style>', base_css + '\n</style>')
     v4 = re.sub(r'(<line[^>]*?class="ct-point"[^>]*?>)(</line>)', r'\g<1>' + point_anim + r'\g<2>', v4)
 
-    # Peak coordinates in rohitam26 graph:
-    # Day 21 (x=90, y=83.375) - max peak (80 contributions)
-    # Day 15 (x=938, y=173) - secondary spike (52 contributions)
     sparkles = """<g>
   <!-- Peak 1 Star Sparkle (Day 21 - Max Peak) -->
   <g transform="translate(90, 68)">
@@ -213,15 +218,22 @@ def generate_variants(base_svg, out_dir):
       stroke: #38bdf8 !important;
       stroke-dasharray: 4, 8 !important;
       opacity: 0.35 !important;
+      animation: gridDashH 2s linear infinite !important;
     }
     .ct-grid.ct-vertical {
       stroke: #bf91f3 !important;
       stroke-dasharray: 4, 8 !important;
       opacity: 0.3 !important;
+      animation: gridDashV 3s linear infinite !important;
+    }
+    @keyframes gridDashH {
+      to { stroke-dashoffset: 24; }
+    }
+    @keyframes gridDashV {
+      to { stroke-dashoffset: 24; }
     }
     """
     v5 = v5.replace('</style>', grid_css + '\n</style>')
-    v5 = re.sub(r'(<line[^>]*?class="ct-grid ct-horizontal"[^>]*?)>', r'\g<1>><animate attributeName="stroke-dashoffset" from="0" to="24" dur="2s" repeatCount="indefinite" /></line>', v5)
     v5 = re.sub(r'(<line[^>]*?class="ct-point"[^>]*?>)(</line>)', r'\g<1>' + point_anim + r'\g<2>', v5)
     with open(os.path.join(out_dir, "activity-graph-grid.svg"), "w", encoding="utf-8") as f:
         f.write(v5)

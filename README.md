@@ -149,11 +149,11 @@ class Rohita:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="./github-metrics/activity-graph.svg" alt="Activity Graph"/>
+  <img src="./github-metrics/activity-graph-fusion.svg" alt="Activity Graph"/>
 </div>
 
 <details>
-<summary><b>✨ Preview All 5 Individual Animation Effects (Click to Expand)</b></summary>
+<summary><b>✨ Preview All 6 Animation Effects (Click to Expand)</b></summary>
 <br/>
 
 #### 1. 🌠 Riding Comet Particle (`animateMotion` Traversing Peaks & Valleys)
@@ -179,6 +179,11 @@ class Rohita:
 #### 5. 🌐 Cyberpunk Matrix Hologram Grid
 <div align="center">
   <img src="./github-metrics/activity-graph-grid.svg" alt="Cyberpunk Grid"/>
+</div>
+
+#### 6. ⚡ The Ultimate Fusion (All Effects Synchronized)
+<div align="center">
+  <img src="./github-metrics/activity-graph-fusion.svg" alt="The Ultimate Fusion"/>
 </div>
 
 </details>
