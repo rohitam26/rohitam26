@@ -293,14 +293,14 @@ class Rohita:
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
+| [**YatraSaathi**](https://github.com/rohitam26/YatraSaathi) | Location-aware journey companion with multi-stop GPS tracking, proximity arrival alarms, and safety check-ins. | Dart |
+| [**Geh-reDir**](https://github.com/rohitam26/Geh-reDir) | Twogether (GehöreDir) — An elegant, aesthetic shared space web application for couples featuring shared expenses, savings, joint calendar, to-dos, and life goals. | HTML |
+| [**stockguard**](https://github.com/rohitam26/stockguard) | Distributed inventory reservation and checkout reliability engine with atomic conditional allocations and saga orchestration. | Python, JavaScript |
 | [**C-Programming-Laboratory**](https://github.com/rohitam26/C-Programming-Laboratory) | Comprehensive C Programming Laboratory records and coursework covering fundamental to advanced programming concepts spanning 16 weeks of experiments. | Documentation |
 | [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive web application experiments. | HTML, CSS |
 | [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Core syntax, data structures, recursion, file operations, and vectorized numerical computing using Python. | Python |
 | [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search, constraint satisfaction, game trees, fuzzy logic, and Prolog. | Python, Prolog |
 | [**Operating-Systems-Laboratory**](https://github.com/rohitam26/Operating-Systems-Laboratory) | System programming, process scheduling, inter-process communication, and memory virtualization laboratory implementations in C. | C, Shell |
-| [**Object-Oriented-Programming-with-Java-Laboratory**](https://github.com/rohitam26/Object-Oriented-Programming-with-Java-Laboratory) | Core object-oriented programming principles, modern Java collections, exception handling, and JDBC database applications. | Java |
-| [**Low-Code-Application-Development-using-Zoho-Creator**](https://github.com/rohitam26/Low-Code-Application-Development-using-Zoho-Creator) | Academic coursework planner and milestone tracking application built on the Zoho Creator cloud platform. | Deluge |
-| [**Foundations-of-Machine-Learning-Laboratory**](https://github.com/rohitam26/Foundations-of-Machine-Learning-Laboratory) | Supervised and unsupervised learning algorithms, regression models, ensemble classifiers, and dimensionality reduction in Python. | Python |
 <!-- PROJECTS:END -->
 
 ---
