@@ -293,14 +293,14 @@ class Rohita:
 <!-- PROJECTS:START -->
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
+| [**evidence-grounded-document-intelligence**](https://github.com/rohitam26/evidence-grounded-document-intelligence) | An AI-powered document intelligence platform combining OCR, hybrid RAG, evidence-grounded LLM responses, structured extraction, autonomous agents and MCP tools. | Python, TypeScript |
+| [**adaptive-learning-predictive-intelligence**](https://github.com/rohitam26/adaptive-learning-predictive-intelligence) | An intelligent education platform combining machine learning, deep learning, graph-based recommendations and predictive analytics to personalise learning experiences and identify academic risk. | Python, TypeScript |
+| [**siddha-ai**](https://github.com/rohitam26/siddha-ai) | An ML-powered Siddha observation analysis platform combining computer vision, explainable AI, and a FastAPI backend. | Python, JavaScript |
 | [**UC-05_automation-workload**](https://github.com/rohitam26/UC-05_automation-workload) | Automation workload estimation and preview engine with rule validation and idempotent execution. | TypeScript, Python |
 | [**YatraSaathi**](https://github.com/rohitam26/YatraSaathi) | Location-aware journey companion with multi-stop GPS tracking, proximity arrival alarms, and safety check-ins. | Dart |
 | [**Geh-reDir**](https://github.com/rohitam26/Geh-reDir) | Twogether (GehöreDir) — An elegant, aesthetic shared space web application for couples featuring shared expenses, savings, joint calendar, to-dos, and life goals. | HTML |
 | [**stockguard**](https://github.com/rohitam26/stockguard) | Distributed inventory reservation and checkout reliability engine with atomic conditional allocations and saga orchestration. | Python |
 | [**C-Programming-Laboratory**](https://github.com/rohitam26/C-Programming-Laboratory) | Comprehensive C Programming Laboratory records and coursework covering fundamental to advanced programming concepts spanning 16 weeks of experiments. | Documentation |
-| [**Web-Technology-and-Mobile-Applications-Laboratory**](https://github.com/rohitam26/Web-Technology-and-Mobile-Applications-Laboratory) | Client-side web interfaces, Java servlets, Android mobile components, and interactive web application experiments. | HTML, CSS |
-| [**Python-Programming-Laboratory**](https://github.com/rohitam26/Python-Programming-Laboratory) | Core syntax, data structures, recursion, file operations, and vectorized numerical computing using Python. | Python |
-| [**Principles-Of-Artificial-Intelligence-Laboratory**](https://github.com/rohitam26/Principles-Of-Artificial-Intelligence-Laboratory) | Classical AI algorithms covering heuristic search, constraint satisfaction, game trees, fuzzy logic, and Prolog. | Python, Prolog |
 <!-- PROJECTS:END -->
 
 ---
